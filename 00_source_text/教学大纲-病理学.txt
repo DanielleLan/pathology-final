@@ -1,0 +1,1309 @@
+
+
+
+中山大学
+本 科 教 学 大 纲
+Undergraduate Course Syllabus
+
+学院（系）：中山医学院
+School (Department)： Zhongshan School of Medicine
+
+课程名称：病理学（五年制）
+Course Title：  Pathology （Five year）                       
+
+二〇一六年
+病理学 教学大纲
+Course Syllabus: Pathology
+（编写日期： 2016 年 7月）(Date: 7/20/2016)
+
+
+一、课程基本说明I. Basic Information
+略
+二、课程基本内容 II. Course Content
+（一）课程内容i. Course Content
+（含学时分配，学时分配要落实到“章”或“节”，并对各章节的重点、难点内容加以必要的说明）(Please provide a course calendar; specify which chapter or section the class hour would cover; provide necessary information on the key points, difficult points and other points you think necessary to clarify in each week)
+
+第一章  绪论（0.5学时）
+Chapter 1  Introduction to Pathology（0.5 Class Hours）
+教学内容Teaching Contents
+（1）病理学的定义、研究范畴及在医学教育中的地位
+Definition of pathology, the core of pathology and its role in medical education
+（2）病理学的发展简史、各阶段特征及主要代表人物
+Evolution of pathology, Representative personalities
+（3）病理学的主要学科分支
+Subdivision of Pathology 
+（4）病理学的基本研究方法：尸体剖验、活体组织检查和细胞学检查
+Basic methods for the study of pathology: Autopsy, Biopsy and Cytology
+基本要求Basic Requirements
+了解病理学的宗旨、发展简史、研究范畴及基本研究方法。
+To understand the contents and basic methods of pathology as well as its position in medical science.
+
+第二章  细胞和组织的适应与损伤（8.5学时）
+Chapter 2 Cellular Adaptations and Cell Injury（8.5 Class Hours）
+教学内容Teaching Contents
+（1）细胞对环境刺激的应答反应：适应、可逆性损伤和不可逆损伤
+Cellular Responses to Stress and Noxious Stimuli: cellular adaptations, reversible and irreversible cell injury 
+（2）细胞和组织的适应性表现：萎缩、肥大、增生和化生
+Cellular adaptations: atrophy, hypertrophy, hyperplasia and metaplasia
+（3）细胞损伤的原因和机制
+Causes and mechanisms of cell injury
+（4）可逆性损伤（变性）的形态学特征：细胞肿胀、脂肪变性、玻璃样变性、粘液样变性、淀粉样变性、细胞内糖原集聚，病理性色素沉着和病理性钙化
+Morphology of Reversible injury (Degeneration and intracellular accumulations): Cellular swelling, Fatty change, Hyaline change, Mucoid change, Amyloidosis, Intracellular accumulation of glycogen, Pigments, Pathologic calcification 
+（5）不可逆损伤（细胞死亡）的形态学特征：坏死的概念和基本病变、坏死的类型、坏死的结局和后果、凋亡的概念及特征、凋亡和坏死的区别
+Morphology of Irreversible injury (Cell death): Definition of necrosis，Morphology of necrosis，Types of necrosis，Definition of apoptosis, Contrasting features of apoptosis and necrosis
+ 
+基本要求Basic Requirements
+应掌握内容The following should be mastered：
+萎缩、肥大、增生和化生的概念和形态学特征
+Definitions, causes, gross pathologic changes and microscopic pathologic changes of atrophy, hypertrophy, hyperplasia and metaplasia
+细胞变性的概念及各种变性形式的形态学特征
+Definitions of degeneration，morphologic features of degeneration types
+细胞死亡的概念及基本特征
+Definitions and basic features of cell death
+坏死的概念、类型和形态学特征
+Definition, types and pathologic changes of necrosis
+凋亡的概念、形态特点及与坏死的区别
+Definition of apoptosis, Contrasting features of apoptosis and necrosis
+应熟悉内容The following should be familiar with：
+细胞损伤的原因和机制 
+Causes and mechanisms of cell injury
+适应性改变、可逆性损伤、不可逆损伤三者间的关系
+Relationship among cellular adaptations, reversible and irreversible cell injury
+应了解内容The following only the general understanding：
+坏死的结局和后果
+Outcomes and consequences of necrosis
+
+重点与难点Key points and Difficult points
+重点内容Key points
+1．萎缩、肥大、增生和化生的概念及形态学特征
+Definition and morphologic features of atrophy, hypertrophy,,hyperplasia and metaplasia
+2．变性的概念及形态学特征
+Definition and morphologic features of degeneration and intracellular accumulations
+3．坏死的概念、基本病变、类型及形态学特征
+Definition, morphologic features and types of Necrosis
+4．坏死与凋亡的区别
+Contrasting features of apoptosis and necrosis
+难点内容Difficult points
+1．化生的概念、类型和形态学特征
+Concepts and mechanisms of Metaplasia
+2．玻璃样变性的概念及形态学特征
+Definition and morphology of Hyaline change
+3. 坏疽的概念及形态学特征
+Definition and morphology of Gangrene
+4．适应性改变、可逆性损伤、不可逆损伤三者间的关系
+Relationship among cellular adaptations, reversible and irreversible cell injury
+
+第三章  损伤的修复（1学时）
+Chapter 3  Healing of Cell Injury（1 Class Hours）
+
+教学内容Teaching Contents
+（1）再生的概念
+Definition and classification of regeneration
+（2）人体三类再生能力不同的细胞：不稳定细胞，稳定细胞及永久细胞
+Labile cells, stable cells and permanent cells
+（3）再生的过程：上皮组织的再生过程，血管的再生，纤维组织的再生及神经组织的再生（创伤性神经瘤的概念）
+Process of regeneration: epithelial cells, blood vessels, fibrous tissue and nerve
+（4）纤维性修复：肉芽组织的概念、形态和功能，肉芽组织修复的过程，瘢痕组织的形态特点作用及危害性
+Fibrous repair: definition, morphology and function of granulation tissue, morphology of scar and hazardness 
+（5）创伤愈合：创伤愈合的基本过程，创伤愈合的类型（一期愈合、二期愈合）. 
+Wound healing: Healing by first intention (primary union), Healing by second intention (secondary union)
+
+基本要求Basic Requirements
+应掌握内容The following should be mastered：
+再生、不稳定细胞、稳定细胞及永久细胞的概念
+Concepts of regeneration, labile cells, stable cells and permanent cells
+肉芽组织的概念及构成、演变及功能 
+Concepts，formation，progression and function of granulation tissue
+应熟悉内容The following should be familiar with：
+不同组织细胞的再生能力
+Regenerative capacity of common cell types
+创伤愈合的基本过程
+Primary union and secondary union
+应了解内容The following only the general understanding：
+各种组织细胞的再生过程
+Process of regeneration
+瘢痕组织的形态特点作用及危害性
+Morphology of scar and hazardness
+
+重点与难点Key points and Difficult points
+重点内容Key points
+1．不稳定细胞、稳定细胞和永久细胞的定义及常见细胞类型
+Regeneration: labile cells, stable cells and permanent cells
+2. 肉芽组织的构成、形态及作用
+Formation of granulation tissue
+难点内容Difficult points
+1. 再生、纤维性修复与创伤愈合的关系
+Relationship among regeneration, fibrous repair and wound healing
+2．一期愈合和二期愈合
+Primary union and secondary union
+
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+理论课Lectures
+前三章理论课共安排4学时，在大课室进行。
+The Lectures of first three chapters are arranged in a total of 4 class hours, in classroom. 
+实验课Experiments
+前三章实验课共安排6学时，在教学实验室进行。
+The Experiments of first three chapters are arranged in a total of 6 class hours, in laboratory.
+大体标本Gross specimen
+1. 肾压迫性萎缩pressure atrophy of kidney
+2. 肝脂肪变性fatty degeneration of liver
+3. 肠系膜淋巴结干酪样坏死caseous necrosis of lymph nodes
+4. 足干性坏疽dry gangrene of foot
+5. 肝水样变性hydropic degeneration of liver
+6. 脑液化性坏死liquefactive necrosis of brain
+7. 心脏萎缩atrophy of heart
+病理切片Pathological section
+1. 子宫平滑肌萎缩和肥大smooth muscle atrophy and hypertrophy of uterus
+2. 肾小管上皮细胞水样变性hydropic degeneration of kidney
+3. 肝小叶中央脂肪变性centre fatty degeneration of liver
+4. 高血压性肾细动脉玻璃样变性hyaline degeneration of renal arteriole
+5. 淋巴结干酪样坏死caseous necrosis of lymph nodes
+6. 心淀粉样变性amyloidosis of heart
+7. 皮肤肉芽组织granulation tissue
+
+Chapter 4   Disorder of Local Circulation（9.0学时）
+第四章  局部血液循环（9.0 Class Hours）
+
+教学内容Teaching Contents
+1．充血的定义、病因、常见类型、病理变化和后果(0.5学时)；
+Definition of congestion、Cause,subtype, morphology and consequence of congestion（0.5class hours）；
+2．血栓和血栓形成的定义、血栓形成的条件、形成过程、血栓的形态、类型、结局和对机体的影响（1学时）；
+Definition of thrombus and thrombosis;、 risk factor of thrombosis; formation, morphology,
+subtype , consequence and impact of thrombosis（1 class hours）；
+3．栓塞的定义、栓子运行的途径；血栓栓塞、脂肪栓塞、气体栓塞、羊水栓塞等的形态特点、后果和对机体的影响（1学时）；
+Definition of embolism, pathway of embolism; Features of different embolism eg. thrombosis embolism, fatty embolism, air embolism, tumor cell embolism etc.,. and the consequenceand impact on human body（1 class hours）.
+4．梗死的定义、原因、类型；贫血性梗死和出血性梗死的原因、形成条件、形态、对机体的影响和结局（0.5学时）。
+Definition,subtype and  etiology of infarction. Cause, morphology ,consequence and impact on human body of anemic infarction(heart, kidney, brain, spleen) and hemorrhagic infarction(lung , intestine) （0.5class hours）；
+基本要求Basic Requirements
+应掌握内容The following should be mastered：
+肺淤血、肝淤血的形成原因及形态特点；
+Cause  and feature of pulmonary and liver congestion; 
+血栓和血栓形成的定义、血栓形成的条件、血栓的形态、类型、结局和对机体的影响；栓塞的定义、栓子的运行途径；
+definition of thrombus and thrombosis; risk factor of thrombosis; morphology, subtype , consequence and impact of thrombosis; definition of embolism; pathway of embolism; infarction(lung , intestine).
+血栓栓塞、脂肪栓塞、气体栓塞、羊水栓塞、肿瘤细胞栓塞等形态特点、后果和对机体的影响；梗死的定义、类型；
+Different features of  embolism eg. Thrombosis embolism, fatty embolism, air embolism, tumor cell embolism etc.; 
+贫血性梗死(心、肾、脑、脾)和出血性梗死(肺、肠)的原因、形成条件、形态、对机体的影响和结局。
+definition and subtype of infarction, etiology, morphology ,consequence and impact on human body of anemic infarction(heart, kidney, brain, spleen) and hemorrhagic
+应熟悉内容The following should be familiar with：
+充血的定义及类型；动脉性充血的原因、病理变化和后果；静脉性充血的病因及对机体的影响。
+Definition of congestion;cause,pathologic changes and consequence of arterial congestion; cause, impact of venous congestion;   
+应了解内容The following only the general understanding：
+血栓形成的机制和形成过程；血栓与死后血凝块的区别；出血的原因、类型、形态和后果；水肿的原因、形成机理、形态。
+Mechanism of thrombosis;difference between thrombosis and clot; Cause,subtype, morphology and consequence of hemorrhage;Cause, mechanism and morphology of edema.
+
+重点与难点
+key points and difficult points
+重点内容
+1．肺淤血、肝淤血的形态特点；
+Features of liver and pulmonary congestion，cause and subtype.
+2．血栓形成的条件；血栓的类型和形态特点；
+Risk factor , morphology and consequence of congestion；
+3．栓塞的类型、形态特点及对机体的影响；
+Definition of embolism, pathway of embolism; Features of different embolism eg. thrombosis embolism, fatty embolism, air embolism, tumor cell embolism etc.,. and the consequenceand impact on human body. 
+4．梗死的类型、形成条件、形态特点、结局和对机体的影响。
+Definition and subtype of infarction, etiology, morphology ,consequence and impact on human body of anemic infarction(heart, kidney, brain, spleen) and hemorrhagic
+难点内容difficult points
+1．血栓形成的机制。
+Mechanism and process of thrombosis.
+2．出血性梗死的条件及形态学特征。
+Conditions and morphological characteristics of hemorrhagic infarction.
+
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+理论课Lectures 
+前四章理论课共安排3学时，在大课室进行。
+The Lectures of first three chapters are arranged in a total of 3 class hours, in classroom.
+实验课Experiments
+第四章实验课共安排6学时，在教学实验室进行。
+Experiment is arranged for 6 class hours in the lab.
+大体标本Gross specimen
+1. 肝淤血及脂肪变liver congestion and fatty change
+2. 静脉血栓 venous thrombosis 
+3. 心房/心室附壁血栓mural thrombosis of heart
+4. 肺动脉血栓栓塞pulmonary thrombostic embolism
+5. 肺出血性梗死pulmonary hemorrhagic infarction
+6. 肾贫血性梗死renal anemic infarction
+7. 脾贫血性梗死splenic anemic infarction
+8. 心肌贫血性梗死heart anemic infarction
+病理切片Pathological section
+1. 肺淤血水肿pulmonary edema
+2. 肝淤血liver congestion
+3. 混合血栓mixed thrombus
+4. 血栓机化hrombotic organization
+5. 肾贫血性梗死renal anemic infarction
+
+第5章  炎症（9.0学时）
+Chapter 5  Inflammation（9.0 Class Hours）
+
+教学内容Teaching Contents
+炎症的概念、炎症的原因、炎症的基本病理变化、炎症的局部表现和全身反应、炎症的分类。
+Definition of inflammation. Causes of inflammation. Basic pathologic changes of inflammation. Local signs and general reaction of inflammation. Histological types of inflammation.
+急性炎症的病理改变包括炎性充血、炎性渗出（血管壁通透性升高的机制和类型）、炎性浸润（边集、滚动、黏附、游出、趋化作用和吞噬作用）
+Pathologic changes of acute inflammation: inflammatory hyperemia, inflammatory exudation, inflammatory infiltration. 
+急性炎症的形态学类型（变质性炎、奖掖性炎、纤维素性炎/假膜性炎/绒毛心、化脓性炎/表面化脓和积脓/蜂窝织炎/脓肿、出血性炎）
+Morphologic types of acute inflammation: alterative inflammation, serous inflammation, fibrinous inflammation/pseudomembranous inflammation, suppurative (purulent) inflammation, surface suppuration, Phlegmonous inflammation, abscess, hemorrhagic inflammation. 
+慢性炎症的原因、非特异性慢性炎症的病理特点、炎性息肉、炎性假瘤、肉芽肿性炎（概念、原因、分类及构成）。炎症的转归及炎症介质。
+Causes of chronic inflammation. Pathologic features of non-specific chronic inflammation. Definition of inflammatory polyp and inflammatory pseudotumor. Definition of gruanloma, and its causes, types and composition. Sequels of inflammation. Introduction of inflammatory mediators.
+
+基本要求Basic Requirements
+应掌握内容The following should be mastered：
+1. 血管通透性改变的机理和类型
+Mechanism and types of vascular permeability increasing.
+2. 白细胞的渗出和在炎症过程中的作用
+Leukocyte emigration and functions.
+3. 炎症的组织学类型及特点
+Histological types of inflammation
+应熟悉内容The following should be familiar with：
+1. 炎症的概念和基本病理变化(变质、渗出和增生)
+Definition of inflammation. Basic pathologic changes of inflammation.
+2. 急性炎症的血流动力学改变
+Changes of hemodynamics of acute inflammation.  
+3. 炎症介质的类型和作用
+Types and functions of inflammatory mediators. 
+4. 急性炎症的结局
+ Sequels of acute inflammation. 
+应了解内容The following only the general understanding：
+炎症介质的种类和来源。
+Types and sources of inflammatory mediators.
+
+重点与难点Key points and Difficult points
+重点内容Key points
+1．炎症的概念、炎症的基本病理变化、急性炎症和慢性炎症的特点。
+Definition of inflammation. Basic pathologic changes of inflammation. Features of acute and chronic inflammation.
+2. 变质性炎、纤维素性炎/假膜性炎/绒毛心、化脓性炎/表面化脓和积脓/蜂窝织炎/脓肿、炎性息肉、炎性假瘤的概念和特点。
+Definition and features of alterative inflammation, fibrinous inflammation/pseudomembraneous inflammation, suppurative (purulent) inflammation, surface suppuration, Phlegmonous inflammation, abscess, inflammatory polyp, inflammatory pseudotumor.
+3. 非特异性慢性炎症的病理特点、肉芽肿性炎的概念和构成。
+Pathologic features of non-specific chronic inflammation. Definition and composition of granuloma. 
+4. 菌血症、毒血症、败血症、脓毒血症、调理素、过敏毒素、趋化作用的概念。
+Definition of bacteremia, toxemia, septicemia, pyemia, opsonin, anaphylatoxin and chemotaxis.
+难点内容Difficult points
+1. 炎症血管壁通透性升高的机制和类型。
+Mechanism and types of increasing vascular permeability. 
+2. 炎症介质的种类和作用。
+Types and functions of inflammatory mediator.
+
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+理论课Lectures
+本章内容共3学时，在大课室进行
+The lecture is given in 3 class hours in classroom.
+实验课Experiments
+本章实习安排6学时，在实验室进行。
+Experiment is arranged for 6 class hours in the lab.
+大体标本Gross specimen
+1. 浆液性纤维素性心包炎 Serous fibrinous pericarditis
+2. 慢性浆液性纤维素性胸膜炎 Chronic serofibrinous pleuritis
+3. 咽、喉、气管和支气管假膜性炎
+Pseudomembranous inflammation of pharynx, larynx, trachea and bronchi
+4. 假膜性结肠炎 Pseudomembranous colonitis
+5. 肝脓肿 Hepatic abscess
+6. 肺脓肿 Pulmonary abscess
+7. 急性阑尾炎 Acute appendicitis
+8. 慢性胆囊炎 Chronic cholecystitis
+9. 鼻息肉Nasal polyp
+10. 化脓性脑膜炎purulent meningitis
+病理切片Pathological section
+1. 纤维素性心包炎 Fibrinous pericarditis
+2. 肺脓肿Pulmonary abscess
+3. 急性蜂窝织炎性阑尾炎Acute phlegmonous appendicitis
+4. 慢性胆囊炎 Chronic cholecystitis
+5. （皮肤）肉芽组织 (Cutaneous) granulation tissue
+6. 大脑异物性肉芽肿Foreign body granuloma of brain
+
+第六章  肿瘤学（15学时）
+Chapter 6  Neoplasia（15 Class Hours）
+教学内容Teaching Contents
+（1）肿瘤的概念、肿瘤性增生与非肿瘤性增生的区别、肿瘤的命名（良性肿瘤的命名、恶性肿瘤、混合性肿瘤和某些特殊肿瘤的命名）和分类、癌前病变、非典型增生、原位癌、浸润癌和交界性肿瘤的概念（2学时）。
+The concept of neoplasm，the difference between neoplastic hyperplasia and non neoplastic hyperplasia, nomenclature(nomenclature of benign tumors, malignant tumor, mixed tumor and some special tumor) and classification, precancerous lesions, atypical hyperplasia, carcinoma in situ, invasive carcinoma and the concept of boardline tumor（2 Class Hours）.
+（2） 肿瘤的形态特征（大体形态和肿瘤的构成成分）、肿瘤的分化和异型性及间变、肿瘤的生长（生长方式）和扩散（局部浸润和转移）、肿瘤的复发、肿瘤生长的生物学特征及机制（2学时）。
+Tumor morphology (gross morphology and composition of the tumor), differentiation, atypia andanaplasia and tumor growth (rowth pattern) and diffusion （local invasiona and metastasis）, the mechanism of tumor recurrence and the biological characteristics（2 Class Hours）. 
+（3）肿瘤对机体的影响（一般影响、恶病质和副肿瘤综合征）及机体对肿瘤的免疫、恶性肿瘤的分级和分期、良、恶性肿瘤的鉴别、常见肿瘤举例、癌与肉瘤的鉴别、肿瘤的病因学和发病学（环境因素、遗传因素和肿瘤发生的分子基础）（2学时）。
+Effects of tumor on host and tumor immunity; Grading and staging of malignant tumor; The differences between benign tumors and malignant tumors; Examples of common tumors; The differences between carcinoma and sarcoma; Etiology and mechanism of tumorigenesis. （2 Class Hours）
+
+基本要求Basic Requirements
+应掌握To comprehesively udnerstand
+肿瘤形态特点（肉眼形态、组织结构与细胞的异型性）；肿瘤生长方式与扩散；良、恶性肿瘤的区别；肿瘤的命名与分类；癌前病变与原位癌；癌与肉瘤的区别。
+General features of neoplasia (macroscopy, histology and atypia), growth patterns and pathways to spread, comparisons of benign and malignant tumors, nomenclature and  classification of tumors; precancerous lesions and carcinoma in situ; comparison of carcinoma  and sarcoma.
+应熟悉To be familiar with
+肿瘤的概念；常见上皮性肿瘤：良性（乳头状瘤、腺瘤、囊腺瘤、纤维腺瘤、多形性腺瘤），恶性（鳞状细胞癌、基底细胞癌、腺癌、尿路上皮癌）；常见间叶性肿瘤：良性（纤维瘤、脂肪瘤、平滑肌瘤、脉管瘤、软骨瘤、骨瘤）；恶性（纤维肉瘤、脂肪肉瘤、平滑肌肉瘤、横纹肌肉瘤、软骨肉瘤和骨肉瘤）；肿瘤病因：外源性因素和内源性因素。
+Conception of tumor; common epithelial tumors, benign tumors: papilloma, adenoma, cystadenoma, fibroadenoma, pleomorphic adenoma, malignant tumors: squamous cell carcinoma, basal cell carcinoma, adenocarcinoma, papillary adenocarcinoma, carcinoma simplex, mucoid carcinoma, carcinoid, mesenchymal tumors , benign tumors：fibroma, lipoma,  leiomyoma, vessel tumor, malignant tumor：fibrosarcoma, liposarcoma, leiomyosarcoma,  rhabdomyosarcoma, causes of tumor：extrinsic factor, endogenous factor.
+应了解Be aware of
+肿瘤的代谢特点；肿瘤与机体的互相影响；神经系统肿瘤与造血系统肿瘤；黑色素瘤，畸胎瘤；肿瘤的病理学检查方法；肿瘤的发病机理。
+Metabolic characteristics of tumor, the interaction between tumor and host, tumors of the nervous system and the hemopoietic system, melanoma; teratoma, the pathologic ways for inspection on tumor, the mechanism of the tumor genesis. 
+
+重点与难点Key points and Difficult points
+重点内容Key points
+1.肿瘤的概念、肿瘤性增生与非肿瘤性增生的区别；
+Concept of tumor, the differences between neoplastic hyperplasia and physiological hyperplasia.
+2.癌前病变、非典型增生、原位癌、浸润癌和交界性肿瘤的概念和特点；
+Concepts and features of precancerous lesions, atypical hyperplasia, carcinoma in situ, infiltrative carcinoma and borderline tumor.
+3.肿瘤的形态特征、肿瘤的分化、异型性和间变；
+Morphological features of tumor, differentiation of tumor, atypia and anaplasia.
+4.肿瘤的生长（膨胀性、外生性和浸润性）、扩散（局部浸润、淋巴道转移、血道转移和种植性转移）和肿瘤的复发；
+Growth (expansile, exophytic and invasive) and spread(local invasion, lymphatic metastasis, hematogenous metastasis and seeding metastasis) of tumor, recurrence of tumor.
+5. 良、恶性肿瘤的区别、癌和肉瘤的鉴别。
+Comparison of benign and maligant tumor, the difference of carcinoma and sarcoma.
+难点内容 Difficult points
+1.肿瘤的命名和分类、恶性肿瘤的分级与分期、肿瘤生长的生物学特征及机制；
+The nomenclature and classification, the grade and stage of maligant tumor, the characteristic and mechanism of tumor growth.
+2.肿瘤对机体的影响和机体对肿瘤的免疫；
+Effects of tumor on host and and the hose immunity to tumor.
+3.常见肿瘤的临床病理特点；
+The clinical of common tumor.
+4.肿瘤发生的环境因素、肿瘤与遗传及肿瘤发生的分子基础。
+Environmental factors, tumor and inheritance, the molecular foundation of tumor genesis.
+
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+理论课Lectures
+第六章理论课共安排6学时，在大课室进行。
+The Lectures of the sixth chapter are arranged in a total of 6 class hours, in classroom.
+
+实验课Experiments
+第六章实验课共安排9学时，在教学实验室进行。
+The Experiments of sixth chapter are arranged in a total of 9 class hours, in laboratory.
+第一次课（3学时）The first expreiment（three class hours）
+大体标本
+1. 子宫平滑肌瘤 leiomyoma of uterus
+2. 皮下/结肠脂肪瘤  lipoma of subcutaneous tissue or small intestine
+3. 肝海绵状血管瘤Cavernous hemangioma of liver
+4. 乳腺癌 carcinaoma of breast
+5. 肺转移癌 metastatic carcinoma of lung
+
+玻片标本 Slide specimens
+1.（皮下）纤维瘤 (Subcutaneous) Fibroma
+2.（皮下）纤维肉瘤 (Subcutaneous) Fibrosarcoma
+3. 子宫平滑肌瘤 leiomyoma of uterus
+4. 淋巴结转移癌 metastatic carcinoma of lymph node
+5. 涂片中的癌细胞 carcinoma cells in the smear slide
+
+第二次课（3学时）The second expreiment（three class hours）
+大体标本Gross specimen
+1.（卵巢）纤维瘤 (ovarial) Fibroma
+2. 小肠及肠系膜淋巴结淋巴瘤maligant lymphoma of small intestine and mesenteric lymph node
+3. 股骨骨肉瘤 osteosarcoma of femur 
+4. 皮肤乳头状瘤 papilloma of skin
+5. 阴茎癌 carcinoma of penis
+
+玻片标本 Slide specimens
+1.（皮肤）乳头状瘤 papilloma of skin
+2. 皮肤鳞状细胞癌 squamous cell carcinoma of skin
+3. 皮肤基底细胞癌 basal cell carcinoma of skin
+4. 乳腺纤维腺瘤 fibroadenoma of breast
+5. 卵巢黏液性囊腺瘤 mucinous cystadenoma of ovary
+
+第三次课（3学时）The third expreiment（three class hours）
+大体标本Gross specimen
+1. 卵巢黏液性囊腺瘤 mucinous cystadenoma of ovary
+2. 卵巢乳头状浆液性囊腺瘤 papillary serous cystadenoma of ovary
+3. 卵巢畸胎瘤teratoma of ovary
+玻片标本 Slide specimens
+1. 结肠腺癌 Adenocarcinoma of colon
+2.（胃）印戒细胞癌 Signet-ring cell carcinoma (of stomach)
+3. 乳腺浸润性导管癌 infiltrative ductal carcinoma of  breast
+4. 皮肤黑色素瘤 melanoma of skin
+5. 皮肤毛细血管瘤 capillary hemangioma of skin
+6.（卵巢）良性畸胎瘤  benign teratoma (of ovary)
+
+第七章  心血管系统疾病（ 10学时）
+Chapter 7  Diseases of Cardiovascular System（10 Class Hours）
+
+教学目标Teaching Aims 
+理解掌握心血管系统常见病的基本概念和病理特征。
+To grasp the basic concepts and pathological characteristics of common diseases of cardiovascular system.
+教学内容Teaching contents
+1. 动脉粥样硬化：动脉粥样硬化的概念；病因和发病机制；病变发展过程及其病理变化；重要器官动脉粥样硬化的病变特点；动脉瘤的概念及类型。
+Atherosclerosis：definition of atherosclerosis; etiology and pathogenesis of atherosclerosis；development and pathologic changes of atherosclerosis； pathological features of important organs with atherosclerosis；concept and types of arterial aneurysm.
+2．冠状动脉粥样硬化症及冠状动脉性心脏病：冠状动脉粥样硬化症好发部位及病变特点；冠心病概念；心绞痛的概念及其临床病理特点；心肌梗死概念、原因、好发部位、类型、病理变化和并发症；心肌纤维化和心源性猝死的临床病理特点。
+   Coronary atherosclerosis and coronary artery heart disease： predilection sites and pathologic features of coronary atherosclerosis；definition of coronary heart disease；definition and clinical features of angina pectoris；definition，cause，predilection sites，classification，pathologic changes and complications of myocardial infarction；clinical and pathological features of myocardial fibrosis and sudden cardiac death.
+3．高血压：高血压的定义及分类；病因和发病机制；良性高血压病的病变发展过程、基本病理变化以及心脏、肾脏、大脑和视网膜的临床病理特点；恶性高血压病的临床病理特点。
+   Hypertension：definition and classification of hypertension；etiology and pathogenesis；development and basic pathologic changes of benign hypertension，clinical and pathological features of heart，kidney，cerebrum and retina with benign hypertension；clinical and pathological features of malignant hypertension.
+4．风湿病：风湿病概述；病因和发病机制；病变发展过程及其基本病理变化；风湿性心脏病、关节炎、动脉炎的临床病理特点；皮肤和脑的风湿性病变。
+Rheumatism：general review of rheumatism；etiology and pathogenesis；development and basic pathologic changes；clinical and pathological features of rheumatic heart disease，rheumatic arthritis and arteritis；rheumatic changes of skin and brain（chorea minor）.
+5．感染性心内膜炎：感染性心内膜炎的概念及分类；病因和发病机制；急性与慢性感染性心内膜炎的病理变化及临床病理联系。
+   Infective endocarditis：definition and classification of infective endocarditis；etiology and pathogenesis；pathologic changes and clinical-pathological relationship of acute and chronic infective endocarditis.
+6．心瓣膜病：心瓣膜病的概念；二尖瓣、主动脉瓣狭窄和关闭不全的心脏病变特点及其血流动力学改变。
+   Valvular vitium of the heart：definition of valvular vitium of the heart；pathologic and hemodynamic changes of mitral stenosis，mitral incompetence，aortic incompetence and aortic stenosis.
+
+教学基本要求Basic Teaching Requirements
+应掌握内容The following should be mastered：
+动脉粥样硬化斑块及其继发性改变；缺血性心脏病的原因、表现类型；心肌梗死的病因、形态特点、合并症和后果；高血压病细动脉、小动脉、心、肾的病变， 高血压脑出血的部位；风湿病的概念、基本病变，心(心内膜、心肌、心外膜)、关节、皮肤、脑等器官病变；细菌性心内膜炎：概念、类型、病理改变；慢性心瓣膜病（二尖瓣狭窄和关闭不全、主动脉瓣狭窄和关闭不全）的血液动力学和心脏、全身器官的改变；左、右心功能不全的概念。
+Atherosclerotic plaque and secondary changes；the cause，morphological features，complications and consequences of myocardial infarction；the cause and expressive type of ischemic heart disease；the pathological changes of arterioles and small arteries，heart and kidney in hypertension，and the location of hypertensive cerebral hemorrhage；the concept and basic pathological changes of Rheumatism，the pathological changes of heart (Endocardial, Myocardial, Epicardial)，joint，skin and brain；bacterial endocarditis： concept，subtypes，pathologic changes；the changes of hemodynamics，heart and other systemic organs in chronic valvular heart disease (mitral stenosis，mitral incompetence，aortic stenosis and aortic incompetence)；concept of left and right heart insufficiency.
+应熟悉内容The following should be familiar with：
+恶性高血压的形态、结局；急性和亚急性细菌性心内膜炎的异同点。
+The morphology and termination of malignant hypertension；the similarities and differences between acute endocarditis and subacute endocarditis.
+应了解内容The following only the general understanding：
+动脉硬化：概念、类型；心肌病：概念；原发性心肌病：类型、基本病理改变。
+Atherosclerosis：concept，subtypes；myocardiopathy：concept；primary cardiac myopathy：subtypes and basic pathological changes.
+
+重点与难点Key points and Difficult points
+重点内容Key points
+动脉粥样硬化的概念；粥样硬化斑块的病变及其继发性改变；主动脉、脑动脉、肾动脉、四肢动脉粥样硬化的临床病理特点。
+Definition of atherosclerosis；atherosclerotic plaque and secondary changes；clinical and pathological features of aorta，cerebral arteries，renal arteries and arteries of limbs with atherosclerosis.
+冠状动脉粥样硬化的好发部位；冠心病的概念；心肌梗死的原因、好发部位和形态特点、并发症及后果。
+Predilection sites of coronary atherosclerosis；definition of coronary heart disease；cause，predilection sites，pathologic changes，complications and consequences of myocardial infarction.
+良性高血压病的基本病理变化；心、肾、脑的临床病理特点。
+Basic pathologic changes of benign hypertension；clinical and pathological features of heart，kidney and cerebrum with benign hypertension.
+风湿病的概念、基本病变；心脏、关节、皮肤和脑的风湿性病变特点。
+Definition and basic pathologic changes of rheumatism；rheumatic changes in heart，joints，skin and brain.
+感染性心内膜炎的概念；急性与慢性感染性心内膜炎的区别。
+Definition of infective endocarditis；distinctions between acute and chronic infective endocarditis.
+心瓣膜病的概念；二尖瓣、主动脉瓣狭窄与关闭不全的血流动力学改变。
+Definition of valvular disease；hemodynamic changes of mitral stenosis，mitral incompetence，aortic stenosis and aortic incompetence.
+难点内容Difficult points 
+动脉粥样硬化的发病机理。
+Pathogenesis of atherosclerosis.
+高血压病的发病机制。
+Pathogenesis of hypertension.
+风湿病的发病机制。
+Pathogenesis of rheumatism.
+二尖瓣、主动脉瓣狭窄与关闭不全的血流动力学改变。
+Hemodynamic changes of mitral stenosis，mitral incompetence，aortic stenosis and aortic incompetence.
+
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系等作必要说明）
+(Necessary arrangements on this course provided：experiments，internships，in-class assignments，after-class assignments，and the relationships with other courses.)
+
+理论课Lectures
+理论课共安排4学时，在大课室进行。
+The Lectures of this chapter are arranged in a total of 4 class hours，in classroom. 
+实验课Experiments
+实验课共安排6学时，在教学实验室进行。
+The Experiments of this chapter are arranged in a total of 6 class hours，in laboratory. 大体标本Gross specimen
+急性风湿性心内膜炎acute rheumatic endocarditis
+慢性风湿性心脏病二尖瓣狭窄chronic rheumatic heart disease with mitral stenosis
+主动脉瓣急性/亚急性感染性心内膜炎acute/subacute aortic valve infective endocarditis
+主动脉粥样硬化aortic atherosclerosis
+心肌梗死myocardial infarction
+脑动脉粥样硬化cerebral atherosclerosis
+高血压性心脏肥大hypertensive cardiac hypertrophy
+大脑内囊出血cerebral capsula interna haemorrhage
+高血压性固缩肾hypertensive contracted kidney
+	病理切片Pathological section
+急性风湿性心肌炎和心内膜炎acute rheumatic myocarditis and endocarditis
+急性/亚急性感染性心内膜炎acute/subacute infective endocarditis
+高血压性固缩肾hypertensive contracted kidney
+动脉粥样硬化症athero sclerosis
+心肌梗死myocardial infarction
+
+呼吸系统疾病（ 10学时）
+Chapter 8   Diseases of Respiratory System（10 Class Hours）
+
+教学内容Teaching Contents
+肺疾病 Pulmonary disease
+慢性阻塞性肺疾病：慢性支气管炎、肺气肿、支气管哮喘、支气管扩张症。               Chronic obstructive pulmonary disease , Chronic bronchitis, pulmonary  emphysema,bronchiectasis.
+慢性肺源性心脏病 Chronic cor pulmonale
+肺炎：细菌性肺炎、病毒性肺炎、支原体肺炎
+Pneumonia: bacterial pneumonia, viral pneumonia, mycoplasma pneumonia
+严重急性呼吸综合征Severe acute respiratory syndrome
+禽流感 Avian  HYPERLINK "https://www.baidu.com/s?wd=influenza&tn=44039180_cpr&fenlei=mv6quAkxTZn0IZRqIHckPjm4nH00T1YLmHwbm1FWnHuWPjTvmHN90ZwV5Hcvrjm3rH6sPfKWUMw85HfYnjn4nH6sgvPsT6KdThsqpZwYTjCEQLGCpyw9Uz4Bmy-bIi4WUvYETgN-TLwGUv3EPHDkrjfdn6" \t "http://zhidao.baidu.com/_blank" influenza
+尘肺和呼吸系统肿瘤Pneumoconiosis and tumor of respiratory system
+职业/环境有关的肺疾病：硅沉着病、石棉沉着病
+    Occupational / environmental related lung diseases:Silicsis, asbesesis.
+鼻咽癌Nasopharyngeal Carcinoma 
+肺癌 Carcinoma of the lung
+（二）教学基本要求Basic Teaching Requirements
+应掌握内容The following should be mastered：
+大叶性肺炎各期肉眼和镜下的形态学改变，肺肉质变的概念； 
+The morphologic changes of lobar Pneumonia in 4 stages, the concept of pulmonary carnification.
+小叶性肺炎的形态特点和合并症；
+The morphological characteristics and complications of the bronchopneumonia.
+肺气肿的分类、形态改变和后果；
+The Classification、morphological changes and consequences of the Emphysema.
+支气管扩张症的形态改变；
+The morphological changes of Bronchiectasis.
+尘肺的基本形态学变化，矽结节，石棉小体的概念；
+The morphological changes of Pneumoconiosis .The concept of silicotic nodule and  HYPERLINK "http://www.baidu.com/link?url=Hynab9dVht6me8MwcPprTlh17kzDPVKu7PLSY5GHt7lqy7BBwgcve3DNrKZg02RrbYHs_fjnnDYtN4RGI95sMXDlp9pSQ8xTHNNdbFieFdMh8fA86EoYdEv3SPkHA7lX" \t "http://www.baidu.com/_blank" asbestos body.
+鼻咽癌的病因、发生部位、组织学分型、扩散和转移；
+The Etiology, location, histological type, pathways of spread and metastasis of Nasopharyngeal Carcinoma .
+(7)肺癌的大体分型和组织学分型。
+The histological and macroscopical types of lung carcinoma.
+应熟悉内容The following should be familiar with：
+间质性肺炎的病因、发病机理和形态改变；
+         The etiopathogenisis, pathogenesis and morphous change of interstitial pneumonia .
+尘肺病的类型、矽肺的病因、发病机理、病理变化和合并症；
+  The etiology, pathogenesis, pathological changes and complication of Pneumoconiosis .
+应了解内容The following only the general understanding：
+支原体肺炎的病因、发病机理和形态改变；
+Mycoplasmal pneumonia: the causes, etiopathogenisis and morphous changes;
+慢性支气管炎的病因、形态改变和后果；
+Chronic bronchitis: etiopathogenisis, morphous changes and consequence;
+支气管扩张的病因、发病机理、形态改变和合并症；
+ Bronchiectasis: the causes,etiopathogenisis, morphous changes and complication;
+肺源性心脏病的病因、发病机理、肺血管和心脏病变及与其他心脏病的区别；
+Chronic cor pulmonale: the causes, etiopathogenisis; pneumoangiogram and cardiac changes, and those which are different from other cardiac diseases;
+尘肺病的类型、矽肺的病因、发病机理、病理变化和合并症；
+   The types of Pneumoconiosis.The etiology, pathogenesis, pathological changes and complication of  Silicsis.
+石棉沉着病病因、发病机理、病理变化和合并症。
+   The etiology, pathogenesis, pathological changes and complication of asbesesis .
+
+重点与难点Key points and Difficult points
+重点内容Key points
+大叶性肺炎、小叶性肺炎的病理特点及常见合并症；间质性肺炎病理变化共同特点。病毒性性肺炎检见病毒包涵体的意义。
+ The morphological characteristics and complications of the lobar pneumonia and bronchopneumonia.Pathological changes of interstitial pneumonia. The significance of viral pneumonia.
+鼻咽癌肉眼及组织学类型、肿瘤的扩散转移途径，病因学；
+The gross and histological type, pathways of spread and metastasis ,etiology of Nasopharyngeal Carcinoma .
+肺癌肉眼及组织学类型、组织发生及肿瘤扩散转移途径；
+The gross and histological type, histogenesis, pathways of spread and metastasis  of  Lung cancer.
+难点内容 Diffucult points
+大叶性肺炎、小叶性肺炎与间质性肺炎之间的异同点；
+The similarities and differences between Lobar pneumonia, lobular pneumonia and interstitial pneumonia .
+硅结节与结核结节的鉴别；
+The identification of silicotic nodules and nodules;
+鼻咽癌的WHO组织学分型；
+The WHO histological type of Nasopharyngeal Carcinoma ;
+4．隐性肺癌，早期肺癌的概念。
+The concept of occult lung cancer, early lung cancer.
+
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+
+理论课Lectures
+理论课共安排4学时，在大课室进行。
+The Lectures of this chapter are arranged in a total of 4 class hours, in classroom.
+实验课Experiments
+实验课共安排6学时，在教学实验室进行。
+The Experiments of this chapter are arranged in a total of 6 class hours, in laboratory. 大体标本Gross specimen
+大叶性肺炎 lobar pneumonia
+小叶性肺炎 lobular pneumonia
+支气管扩张bronchiectasis
+鼻咽癌nasopharyngeal carcinoma
+中央型肺癌pulmonary carcinoma central type
+周围型肺癌pulmonary carcinoma peripheral type
+病理切片Pathological section
+1.  大叶性肺炎lobar pneumonia
+2.  小叶性肺炎lobular pneumonia
+3.  间质性肺炎 interstitial pneumonia
+4.  肺气肿emphysema
+5.  硅肺silicosis
+6.  肺小细胞癌pulmonary small cell carcinoma 
+7.  肺腺癌pulmonary adenocarcinoma
+8. 鼻咽癌未分化型非角化性癌nasopharyngeal undifferentiated non-keratinizing carcinoma
+9.  鼻咽癌分化型非角化性癌nasopharyngeal differentiated non-keratinizing carcinoma
+
+第九章  消化系统疾病（10学时）
+Chapter 9   Diseases of Digestive System（10 class hours ）
+
+教学内容Teaching Contents
+1．慢性胃炎的概念、分类，慢性浅表性胃炎和慢性萎缩性胃炎的病因和病变特点。
+Concept and classification of chronic gastritis; etiology and pathologic changes of chronic superficial gastritis and chronic atrophic gastritis.
+2．溃疡病的病因、发病机制、好发部位、形态特点、合并症及临床病理联系。
+Etiology, pathogenesis, pathologic changes, complications and clinicopathological correlations of peptic ulcer.
+3．炎症性肠病的概念、溃疡性结肠炎和Crohn病病理变化特点。
+Concept of inflammatory bowel disease; pathologic changes of chronic ulcerative colitis and Crohn disease.
+4．食管癌、胃癌、大肠癌的概念、好发部位、肉眼及组织学类型、转移途径和预后，早期癌与进展期癌的概念。
+Concept of esophageal carcinoma, gastric carcinoma and colonic carcinoma, common location, gross and histologic types, metastasis pathway and prognosis of esophageal carcinoma. Concept of early esophageal carcinoma and advanced esophageal carcinoma.
+5. 胃肠道间质瘤(GIST)及神经内分泌肿瘤（NET)的概念、组织学特点及分级原则。
+Concept, pathologic changes and grades of GIST and NET.
+6．病毒性肝炎的病因、发病机制、基本病变、临床病理类型，临床病理联系。毛玻璃样肝细胞的概念及意义。
+Etiology, pathogenesis, pathologic types, pathologic changes, and clinicopathological correlations of viral hepatitis. Concept of ground-glass hepatocytes.
+7. 肝硬化概念、临床病理类型(门脉性肝硬化，坏死后性肝硬化和胆汁性肝硬化)、病因、发病机制、基本病变、临床病理联系。假小叶的概念。
+Concept, etiology, pathogenesis, pathologic types (portal cirrhosis, postnecrotic cirrhosis, biliary cirrhosis ), pathologic changes, and clinicopathological correlations of liver cirrhosis. Concept of pseudolobule.
+8．原发性肝癌的早期肝癌与进展期肝癌的定义、肉眼及组织学类型、转移途径和预后。
+Concept of liver carcinoma, early liver carcinoma and advanced liver carcinoma; common location, gross and histologic types, metastasis pathway and prognosis of liver carcinoma.
+
+教学基本要求
+应掌握内容The following should be mastered：
+（1）溃疡病的形态特点及合并症；
+The Morphological characteristics and complications of peptic ulcer disease;
+（2）病毒性肝炎的病理形态特征；
+The basic morphologic changes and classification of viral hepatitis;
+（3）肝硬化的基本病理变化及各类型（门脉性、坏死后性、胆汁性）的形态特点；
+The basic pathological changes of cirrhosis and the morphological characteristics of all types of cirrhosis (portal cirrhosis、Necrosis cirrhosis and biliary cirrhosis;
+（4）食管癌、胃癌、结直肠癌和胃肠间质瘤的好发部位、常见肉眼和组织学类型、病因；
+The predilection site, common macroscopical and histological types and possible causes of esophageal cancer, gastric cancer, colorectal cancer and GIST;
+（5）肝癌常见肉眼和组织学类型；
+Common macroscopical and histological characteristics of liver carcinoma;
+应熟悉内容The following should be familiar with：
+（1）慢性胃炎：概念、类型和病因(A、B型)；
+      The concept and etiopathogenesis of type A and type B Chronic gastritis;
+（2）慢性浅表性和慢性萎缩性胃炎的形态特点及后者与胃癌的关系。
+The morphologic character of chronic superficial gastritis and chronic atrophic gastritis. The relationship between chronic atrophic gastritis and carcinoma of the stomach.
+
+应了解内容The following only the general understanding：
+(1)溃疡病的病因和发病机理，幽门弯曲菌与慢性胃炎和溃疡病的关系；
+The etiology and etiopathogenesis of peptic ulcer, the relationship between Campylobacter pyloridis and chronic gastritis and peptic ulcer;
+(2)肠道息肉：分类、形态特征，腺瘤性息肉与癌变关系；
+Intestine polyp: classification, morphologic characteristics, the relationship between adenomatous polyp and canceration;
+(3)局限性肠炎及慢性溃疡性结肠炎：部位、肉眼及镜下形态特点；
+Regional enteritis and chronic ulcerative colitis: location and characteristics of macroscopic and microscopic;
+(4)胃肠道间质瘤(GIST)及神经内分泌肿瘤（NET)的概念、组织学特点及分级原则。
+The concept, histological characteristics and principles of grading of GIST and NET.
+
+重点与难点Key points and Difficult points
+重点内容Key points
+慢性萎缩性胃炎的病理特点
+Pathologic changes chronic atrophic gastritis;
+溃疡病的病理特点、结局及合并症
+Pathologic changes, ending and complications of peptic ulcer
+病毒性肝炎、肝硬化的基本病理变化、病理类型及临床病理联系；
+Pathogenesis, basic pathologic changes, clinicopathological correlation of viral hepatitis and liver cirrhosis
+4．消化道癌及肝癌的肉眼及组织学类型及病理特点。
+Gross and histologic types of gastrointestinal carcinoma and liver carcinoma.
+
+难点内容Difficult points
+溃疡性结肠炎和Crohn病病理变化特点；
+Pathologic changes of chronic ulcerative colitis and Crohn disease
+病毒性肝炎的基本病变、临床病理类型、临床病理联系；
+Pathogenesis, basic pathologic changes, clinicopathological correlation of viral hepatitis;
+肝硬化的病因、发病机制、基本病变、临床病理联系。
+Pathogenesis, basic pathologic changes, clinicopathological correlation of liver cirrhosis.
+
+
+（（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+理论课Lectures
+本章理论课共安排4学时，在大课室进行。
+The Lectures of this chapter is arranged in a total of 4 class hours, in classroom.
+实验课Experiments
+本章实验课共安排6学时，在教学实验室进行。
+The Experiments of this chapter is arranged in a total of 6 class hours, in laboratory. 大体标本Gross specimen
+胃（或十二指肠）溃疡病 Gastric (or Duodenal) ulcer disease
+食管癌 Carcinoma of esophagus
+溃疡型胃癌 Gastric carcinoma, ulcerative type
+弥漫浸润型胃癌 Gastric carcinoma, diffuse infiltrative type
+结肠癌 Carcinoma of colon
+急性黄色肝萎缩 Acute yellow aprophy of liver
+门脉性肝硬变 Portal cirrhosis
+坏死后性肝硬变 Postnecrotic cirrhosis
+胆汁性肝硬变 Biliary cirrhosis
+食道静脉曲张 Esophageal varices
+肝硬变合并巨块型肝癌 Cirrhosis with liver carcinoma, massive type
+肝硬变合并多数结节型肝癌 Portal cirrhosis with liver carcinoma，nodular type
+结肠多发性息肉病 Polyposis multiple of colon
+	病理切片Pathological section
+胃粘液癌（印戒细胞癌）Mucinous carcinoma of stomach (signet-ring cell carcinoma)
+慢性萎缩性胃炎 Chronic atrophic gastritis
+胃溃疡病 Ulcer of stomach
+胃单纯癌 Carcinoma simplex of stomach
+毛玻璃样变 Ground-glass hepatocytes
+肝硬化 Portal cirrhosis
+门脉性肝硬变合并肝细胞癌 Portal cirrhosis with hepatocellular carcinoma
+食管鳞癌 Well-differentiated squamous cell carcinoma of esophagus
+慢性胃溃疡癌变 Malignant change of chronic gastric ulcer
+
+第十章  淋巴造血系统疾病（5学时）
+Chapter 10 Diseases of Haematopoietic and Lymphoid Tissue（5 Class Hours）
+
+教学内容Teaching Contents
+1．	淋巴组织反应性增生：非特异性淋巴组织增生的形态学改变，几种常见的淋巴结炎及淋巴结病（0.3学时）
+Reactive hyperplasia of lymphoid tissue : morphology of non-specific lymphoid tissue hyperplasia, features of common lymphadenitis and lymphadenopathy.
+2．	淋巴瘤的病理特点：淋巴瘤的定义；临床表现，大体改变，镜下主要特点；淋巴瘤诊断常用辅助技术；淋巴瘤的分类；霍奇金淋巴瘤的临床病理特点及分类，霍奇金淋巴瘤瘤细胞的特点；非霍奇金淋巴瘤的临床病理特点及主要分类原则，常见淋巴瘤类型：急性淋巴母细胞性白血病与淋巴母细胞性淋巴瘤，慢性淋巴细胞性白血病与小淋巴细胞性淋巴瘤，弥漫大B细胞淋巴瘤，滤泡性淋巴瘤，Burkitt淋巴瘤，结外鼻型NK/T 细胞淋巴瘤，蕈样霉菌病，非特殊性外周T细胞性淋巴瘤；淋巴组织反应性增生与淋巴瘤的诊断与鉴别诊断原则 （1学时）
+Lymphomas: definition, clinical manifestation, gross, major microscopy changes. Ancillary techniques in diagnosis of lymphomas. Classification of lymphoma. Clinico-pathology features and classification of Hodgkin lymphoma, Reed-Sternberg cell. Clinico-pathology features and major classification of non-Hodgkin lymphoma, common subtypes: lymphoblastic leukemia/ lymphoma, chronic lymphocytic leukemia/small lymphocytic lymphoma, diffuse large B-cell lymphoma, follicular lymphoma, Burkitt lymphoma, extra-nodal NK/T cell lymphoma, nasal type, peripheral T-cell lymphoma, NOS. Principles of diagnosis and differential diagnosis of lymphoma.
+3．	髓系肿瘤的病理特点：髓系肿瘤的定义，分类，临床表现，基本病理学特点；急性髓细胞性白血病的特点，髓样肉瘤；慢性髓细胞性白血病的特点，费城染色体 （0.5学时）
+Myeloid neoplasms: definition, classification, clinical manifestation, major morphology features. Features of acute myelogenous leukemia, myeloid sarcoma. Features of chronic myelogenous leukemia, Philadelphia (Ph1) chromosome.
+4．	Langerhans细胞组织细胞增生症：Langerhans细胞组织细胞增生症的基本特点，嗜酸性肉芽肿，Hand-Schuller-Christian病，Letterer-Siwe病 （0.2学时）
+Langerhans cell histiocytosis: clinicopathology features, eosinophilic granuloma, Hand-Schuller-Christian disease, Letterer-Siwe disease.
+
+基本要求Basic Requirements
+应掌握内容The following should be mastered：
+淋巴瘤的定义与基本分类
+Definition and classification of lymphomas
+淋巴瘤的主要大体与镜下改变
+Gross and microscopical changes of lymphomas
+淋巴瘤的诊断原则
+Diagnostic principles of lymphomas
+髓系肿瘤的定义与基本分类
+Definition of myeloid neoplasms
+髓样肉瘤的定义
+Definition of myeloid sarcoma
+费城染色体的定义与诊断意义
+Definition and diagnostic significance of Philadelphia (Ph1) chromosome
+应熟悉内容The following should be familiar with：
+常见淋巴瘤的基本临床病理特点
+Clinico-pathologic features of common subtypes of lymphoma
+急性髓细胞性白血病与慢性髓细胞性白血病的基本特点
+Features of acute myelogenous leukemia and chronic myelogenous leukemia
+应了解内容The following only the general understanding：
+淋巴组织反应性增生的特点
+Features of reactive hyperplasia of lymphoid tissue
+Langerhans细胞组织细胞增生症的定义、分类与特点
+Definition, classification and features of Langerhans cell histiocytosis
+
+重点与难点Key points and Difficult points
+重点内容Key points
+1．	淋巴瘤的诊断原则
+Diagnostic principles of lymphoma
+2．	淋巴瘤的主要病理学特点
+ 	Clinico-pathologic features of lymphomas
+3．	霍奇金淋巴瘤的主要类型
+	Subtypes of Hodgkin lymphomas
+4．	常见非霍奇金淋巴瘤的主要临床病理特征
+	Clinico-pathologic features of common subtypes of non-Hodgkin lymphoma
+5．	髓样肿瘤基本临床病理特点
+	Clinico-pathologic features of myeloid neoplasms
+难点内容Difficult points
+1．	急性淋巴母细胞性白血病与淋巴母细胞性淋巴瘤的关系与区别
+	Relationship and differences between acute lymphoblastic leukemia and lymphoblastic lymphoma
+2．	慢性淋巴细胞性白血病与小淋巴细胞性淋巴瘤的关系与区别
+	Relationship and differences between chronic myologenous leukemia and small lymphocytic lymphoma
+3．	淋巴瘤的诊断与鉴别诊断要点：临床表现，形态学改变，免疫组化，遗传学改变
+	Principles of diagnosis and differential diagnosis of lymphoma: clinical manifestation, morphology, immunophenotype, genetics.
+4．	急性髓细胞性白血病的分类
+	Classification of acute myelogeneous leukemia
+
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+理论课Lectures
+本章内容共2学时，在大课室进行
+The lecture is given in 2 class hours in classroom.
+实验课Experiments
+	本章实习安排3学时，在实验室进行。
+	Experiment is arranged for 3 class hours in the lab.
+大体标本Gross specimen
+1. 白血病累及肝脏Liver involved by leukemia
+2. 白血病累及脾脏Spleen involved by leukemia
+3. 脾非霍奇金淋巴瘤Spleen non-Hodgkin lymphoma
+4. 小肠及肠系膜淋巴结淋巴瘤Lymphoma of small intestine and mesenteric lymph nodes
+
+病理切片Pathological section
+1. 慢性髓细胞性白血病累及肝脏Liver involved by chronic myelogenous leukemia
+2. 霍奇金淋巴瘤Lymph node Hodgkin lymphoma
+3. 滤泡性淋巴瘤Follicular lymphoma of lymph node
+4. Burkitt淋巴瘤Burkitt lymphoma of lymph node
+第十一章泌尿系统疾病（7.5学时））
+Charpter 11   Diseases of Urinary System（7.5Class hours）
+
+课程内容Course Content
+1.肾脏常见的肿瘤：肾母细胞瘤的病理改变、肾细胞癌的病理类型及病理改变、尿路上皮癌的病理改变及分级。（0.5学时）
+Common malignancies of kidney: Classification, pathological features and morphological changes of renal cell carcinoma, nephroblastoma. Morphological features and grading of uroepithelial cell carcinoma（0.5 class hours）;
+2. 肾小管间质疾病：急性肾盂肾炎、慢性肾盂肾炎的病因、发病机制及病理改变、间质性肾炎（药物性、过敏性）如马兜铃酸肾病的病理改变(0.5学时)。
+Tubulo-interstitial disease of kidney: Mechanism,etiology and pathological changes of acute and chronic pylonephritis; and intersitial nephritis(aristolochic acid nephritis, drug-induced)（0.5class hours）;
+3. 肾小球疾病：肾小球的正常组织学及肾小球疾病诊断相关技术（光镜、免疫荧光、电镜）、肾小球肾炎的发病机制（0.5学时）、常见肾小球疾病的临床表现及综合征（急性肾炎综合征、急进性肾炎综合征、肾病综合症等）、原发性肾小球肾炎的常见病理类型及基本病变。(2学时)
+Glomerulonephritis ;normal histology of  kidney;Technique related with renal disease diagnosis((Light microscopy, electronic microscopy, immuno-fluorescence);Mechanism of GN（0.5 class hours）; Common primary GN and its clinical presentation(Acute nephritis syndromes, Rapidly progressive glomerulonephritis, neprotic syndrome ); pathological changes of primary GN.(2.0 Class hours)
+
+重点与难点key points and difficult points
+重点内容key points
+常见及特殊的肾小球肾炎的病理类型：急性弥漫增生性肾小球肾炎、肾小球微小病变、IgA肾病、新月体肾炎的病理改变、发病机制、相应的临床综合征及预后。
+Common and specific glomerulonephritis: pathological changes, mechanism, clinical presentation and prognosis of acute diffuse proliferative GN,minimal change disease, IgA nephropathy, crescentic GN;
+急性肾炎肾炎和慢性肾盂肾炎的发病机制和病理改变（大体和镜下）的异同。
+Differentiation between acute and chronic pylonephritis(pathological feature, gross and light microscopy)
+肾细胞癌的病理类型及病理改变特点（大体和镜下），肾母细胞瘤的病变特点，尿路上皮癌的形态特点及分级标准。
+Common malignancies of kidney: Classification, pathological features and morphological changes of renal cell carcinoma, nephroblastoma. Morphological features and grading of uroepithelial cell carcinoma
+难点内容Diffucult points
+原发性肾小球肾炎的病理类型及病理改变：膜性肾病、膜增生性肾炎、局灶节段性肾小球硬化等。
+Primary glomerulonephritis: pathological changes of menbraneous disease, membrano-proliferative GN, and FSGS
+
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+理论课Lectures
+理论课共安排3.0学时，在大课室进行。
+The Lectures of this chapter are arranged in a total of 3.0 class hours, in classroom.
+实验课Experiments
+实验课共安排4.5学时，在教学实验室进行。
+The Experiments of this chapter are arranged in a total of 4.5 class hours, in laboratory.
+大体标本Gross specimen
+弥漫性硬化性肾小球肾炎diffusely sclerotic glomerulonephritis; 
+ 急性肾盂肾炎acute pylonephritis 
+ 慢性肾盂肾炎chronic pylonephritis
+ 肾细胞癌renal cell carcinoma
+5.  膀胱癌 transitional cell carcinoma 
+6. 肾母细胞瘤nephroblastoma
+
+病理切片Pathological section
+1. 弥漫性毛细血管内增生性肾小球肾炎Diffuse endocapillary proliferative glomeru lonephritis
+2. 弥漫性新月体性肾小球肾炎diffuse membranoproliferative glomerulonephritis
+3. 弥漫性膜增殖性肾小球肾炎diffuse sclerosing glomerulonephritis
+4. 弥漫性硬化性肾小球肾炎diffusely sclerotic glomerulonephritis
+5. 急性肾盂肾炎acute pylonephritis
+6. 慢性肾盂肾炎chronic pylonephritis
+7. 肾细胞癌renal cell carcinoma;
+8. 肾母细胞瘤nephroblastoma
+9. 膀胱移行细胞癌transitional cell carcinoma
+
+第十二章  生殖系统及乳腺疾病（ 7.5学时）
+Chapter 12  The Reproductive System and Breast Diseases（7.5 Class Hours）
+
+教学内容Teaching contents
+1．子宫颈病变：慢性子宫颈炎的病理形态特点；子宫颈上皮内瘤变（CIN）的概念和形态学改变；子宫颈癌的病因、病理类型及特点、临床意义、扩散和转移；
+The cervical lesions: pathologic morphology characteristics of chronic cervicitis; the concept and morphology changes of cervical intraepithelial neoplasia (CIN); The cause, pathological type and characteristic, clinical significance, spread and metastasis of cervical cancer;
+2．子宫内膜腺癌的病因、病理变化及临床病理联系；
+The etiology, pathological changes and clinicopathologic relationship of endometrial adenocarcinoma;
+3．妊娠滋养层细胞肿瘤：葡萄胎、侵袭性葡萄胎和绒毛膜癌的病因、病理变化及临床病理联系；
+The etiology, pathological change and clinicopathologic relationship of gestational trophoblastic disease, such as hydatidiform mole, invasive mole and chorionic carcinoma; 
+4．卵巢肿瘤的病理类型及特点
+The pathological types and characteristic of ovarian tumor.
+5．乳腺囊性增生症和纤维腺瘤的病因、病理变化及临床病理联系；乳腺癌的病因、病理类型、病理变化、治疗生物标记物的作用及与预后的关系；
+The etiology, pathological changes and clinicopathologic relationship of breast lesions, such as cystic hyperplasia and fibroadenoma; The etiology, pathological type, pathological changes and effect for the treatment of biomarkers of breast cancer and its relationship with prognosis; 
+6．前列腺疾病：前列腺增生和前列腺癌。
+The prostate disease：prostate cancer and prostate hyperplasia.
+
+教学基本要求Basic Teaching Requirements
+应掌握内容The following should be mastered：
+子宫颈上皮内瘤变（CIN）的概念；子宫颈癌的病因、病理类型及特点、临床意义、扩散和转移；葡萄胎、侵袭性葡萄胎和绒毛膜细胞癌的病理变化和鉴别；乳腺癌的病因、病理类型及与预后的关系。
+The concept of the cervical intraepithelial neoplasia (CIN); the cause, pathological type and characteristic, clinical significance, spread and metastasis of cervical cancer; the pathological change and differentiation of hydatidiform mole, invasive mole and chorionic carcinoma; the etiology, pathological type of breast cancer and its relationship with prognosis.
+应熟悉内容The following should be familiar with：
+乳腺纤维囊性乳腺病和纤维腺瘤病理和临床特点，子宫体癌的病因、病理变化特点。
+The etiology, the characteristic of pathology and clinical；etiology, pathological changes and clinicopathologic relationship of endometrial adenocarcinom. 
+
+应了解内容The following only the general understanding：
+慢性宫颈炎的病理形态特点；卵巢肿瘤的病理类型及特点；前列腺增生与前列腺癌的形态特点。
+The pathological morphological features of chronic cervicitis; pathological types and characteristics of ovarian tumors; and morphological characteristics of prostatic hyperplasia and prostate cancer.
+
+重点与难点Key points and Difficult points
+重点内容Key points
+子宫颈上皮内瘤变（CIN）的概念和形态学改变；宫颈癌、乳腺癌的病理类型、特点、扩散和转移；葡萄胎、侵蚀性葡萄胎和绒毛膜癌的病理形态特点及其主要区别。
+The concept and morphology change of cervical intraepithelial neoplasia (CIN); The pathological types, characteristics, spread and metastasis of cervical cancer and breast cancer; the pathologic morphologic characteristics of hydatidiform mole, invasive mole and chorionic carcinoma, and the key features to distinguish them.
+难点内容Difficult points 
+卵巢肿瘤的分类及形态特点。
+The classification and morphological characteristics of ovarian tumors.
+
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+
+理论课Lectures
+理论课共安排3学时，在大课室进行。
+The Lectures of this chapter are arranged in a total of 3 class hours, in classroom.
+实验课Experiments
+实验课共安排4.5学时，在教学实验室进行。
+The Experiments of this chapter are arranged in a total of 4.5 class hours, in laboratory.
+大体标本Gross specimen
+1. 子宫颈癌cervical carcinoma
+2. 子宫体癌carcinoma of the corpus uteri
+3. 葡萄胎hydatidiform mole
+4. 侵袭性葡萄胎invasive mole
+5. 子宫绒毛膜癌choriocarcinoma of uterus
+6. 子宫平滑肌瘤leiomyoma of uterus
+7. 卵巢纤维瘤fibroma of ovary
+8. 阴茎癌carcinoma of penis
+9. 卵巢黏液性囊腺瘤mucinous choriocarcinoma of ovary
+10. 卵巢乳头状浆液性囊腺瘤serous cystadenoma of ovary
+11. 卵巢畸胎瘤teratoma of ovary
+12. 乳腺癌carcinoma of breast
+	病理切片Pathological section
+1. 葡萄胎hydatidiform mole
+2. 绒毛膜癌choriocarcinoma
+3. 卵巢黏液性囊腺瘤mucinous choriocarcinoma of ovary
+4. 卵巢畸胎瘤teratoma of ovary
+5. 宫颈鳞状细胞癌，中分化Cervical squamous cell carcinoma,  moderate differentiation
+6. 子宫内膜样腺癌，高分化Endometrial adenocarcinoma,  high differentiation
+7. 乳腺纤维腺瘤breast  fibroadenoma 
+8. 乳腺浸润性导管癌（单纯癌）invasive ductal carcinoma of breast  (simple carcinoma )
+9. 乳腺浸润性导管癌（硬癌invasive ductal carcinoma of breast  (scirrhous carcinoma)
+10. 纤维囊性乳腺病breast fibrocystic disease
+
+第十三章  内分泌系统疾病（2学时）
+Chapter 13  Disorder  of  Endocrine  System（2 Class Hours）
+教学内容Teaching Contents
+（1）甲状腺肿的基本概念、分类、发病机制和病理学特征；甲状腺功能亢进症的概念
+Definition, type, mechanism and pathology of goiter; definition of thyroid hyperfunction
+（2）甲状腺腺瘤的病理学特点；与结节性甲状腺肿的区别
+Pathology of thyroid adenoma; differential diagnosis of thyroid adenoma and nodular goiter
+（3）甲状腺癌的主要类型：甲状腺乳头状癌、滤泡癌、髓样癌以及未分化癌的病理学特点
+The main type of thyroid carcinoma : pathology of thyroid papillary carcinoma, follicular carcinoma, medullary carcinoma and undifferentiated carcinoma
+（4）腺垂体功能亢进症：垂体性巨人症及肢端肥大症的概念
+Adenohypophysis hyperfunction: definition of pituitary gigantism and acromegaly
+（5）垂体腺瘤的病理学特点
+     Pathology of pituitary adenoma
+（6）肾上腺皮质腺瘤、肾上腺皮质癌以及嗜铬细胞瘤的病理学特点
+     Pathology of adrenal cortical adenoma, adrenalcortical carcinoma and pheochromocytoma
+（7）糖尿病的概念、分类、发病机制及病理学特点
+Definition, type, mechanism and pathology of diabetes mellitus
+
+基本要求Basic Requirements
+应掌握内容The following should be mastered：
+（1）甲状腺肿的基本概念、主要类型、发病机制和病理学特征
+Definition, main type, mechanism and pathology of goiter
+（2）甲状腺腺瘤的病理学特点、与结节性甲状腺肿的区别
+Pathology of thyroid adenoma，differential diagnosis between thyroid adenoma and nodular goiter
+（3）甲状腺癌的主要类型：甲状腺乳头状癌的病理学特点
+The main type of thyroid carcinoma : pathology of thyroid papillary carcinoma
+应熟悉内容The following should be familiar with：
+（1）甲状腺功能亢进症的概念
+Definition of thyroid hyperfunction
+（2）垂体性巨人症和肢端肥大症的概念
+Definition of pituitary gigantism and acromegaly
+（3）垂体腺瘤的病理学特点
+Pathology of pituitary adenoma
+（4）肾上腺皮质腺瘤的病理学特点
+Pathology of adrenal cortical adenoma
+（5）糖尿病的概念、分类、发病机制及病理学特点
+Definition, type, mechanism and pathology of diabetes mellitus
+应了解内容The following only the general understanding：
+ （1）甲状腺滤泡癌、髓样癌和未分化癌的主要病理学特点
+   The main pathological features of follicular carcinoma, medullary carcinoma and undifferentiated carcinoma
+（2）肾上腺皮质癌和嗜铬细胞瘤的主要病理学特点
+The main pathological features of adrenalcortical carcinoma and pheochromocytoma
+重点与难点Key points and Difficult points
+重点内容Key points
+（1）甲状腺肿的基本概念、主要类型、发病机制和病理学特征
+Definition, main type, mechanism and pathology of goiter
+（2）甲状腺腺瘤的病理学特点、与结节性甲状腺肿的区别
+Pathology of thyroid adenoma，differential diagnosis between thyroid adenoma and nodular goiter
+（3）甲状腺癌的主要类型：甲状腺乳头状癌的病理学特点
+The main type of thyroid carcinoma : pathology of thyroid papillary carcinoma
+难点内容Difficult points
+（1）甲状腺腺瘤与结节性甲状腺肿的区别
+  Differential diagnosis between thyroid adenoma and nodular goiter
+
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+
+理论课Lectures
+第十三章理论课共安排2学时，在大课室进行。
+The Lectures of the thirteenth chapters are arranged in a total of 2 class hours, in classroom.
+实验课Experiments
+前三章实验课共安排3学时，在教学实验室进行。
+The Experiments of the thirteenth chapters are arranged in a total of 3 class hours, in laboratory. 大体标本Gross specimen
+	1. 结节性甲状腺肿nodular goiter
+	2. 甲状腺腺瘤 thyroid adenoma
+	3. 甲状腺乳头状癌 thyroid papillary carcinoma
+病理切片Pathological section
+	1. 结节性甲状腺肿nodular goiter
+	2. Graves病 Graves disease
+	3. 甲状腺腺瘤 thyroid adenoma
+	4. 甲状腺乳头状癌 thyroid papillary carcinoma
+
+神经系统疾病（5学时）
+Chapter14  Diseases of Nervous System（5 Class Hours）
+教学内容Teaching Contents
+化脓性脑膜炎的病因、发病机制和病理学改变
+Pathogeny, pathogenesis and pathological changes of Acute (purulent) leptomeningitis；
+流行性乙型脑炎的病因、机制及病理学改变、临床病理联系
+Pathogeny, pathogenesis, pathological changes and Clinical pathological correlation of Viral encephalitis；
+胶质瘤的病因、发病机制、基本病变及分级；各种神经系统肿瘤举例
+Pathogeny, pathogenesis and basic pathological changes and grading of Glioma；Examples of various nervous system tumors；
+变性疾病的病因、机制及病理学改变、Alzheimer病、Parkinson病
+Pathogeny, pathogenesis and pathological changes of Degenerative diseases, Alzheimer’s disease, Parkinsonism；
+颅内常见并发症 ：颅内压升高、脑疝形成、脑水肿、脑积水
+Common complications of central nervous system:Cerebral edema, Herniation, Hydrocephalus。
+
+基本要求Basic Requirements
+掌握内容The following should be mastered：
+病毒性脑炎的病理特点；中枢神经系统肿瘤中的胶质瘤、脑膜瘤和周围神经系统肿瘤（神经鞘瘤、神经纤维瘤）的生物学特性和病理形态；Alzheimer病和Parkinson病的基本病理形态特点。
+Pathological characteristics of Viral encephalitis; Biological characteristics and pathologic morphology of Glioma, Meningioma, Schwannoma and Neurofibroma; Pathological morphological characteristics of Alzheimer’s disease and Parkinsonism.
+应熟悉内容The following should be familiar with：
+常见并发症的颅内压增高、脑疝形成、脑水肿、脑积水；化脓性脑膜炎、脑脓肿。
+Common complications of central nervous system; Purulent meningitis; brain abscess.
+应了解内容The following only the general understanding：
+Alzheimer病和Parkinson病的病因和发病机制。
+Pathogeny and pathogenesis of Alzheimer’s disease and Parkinsonism.
+
+重点与难点Key points and Difficult points
+重点内容Key points
+化脓性脑膜炎和流行性乙型脑炎的基本形态学特点
+Basic morphological characteristics of Purulent meningitis and Epidemic encephalitis B;
+胶质瘤的基本病变特点及分级
+Basic pathological changes and grading of Glioma;
+Alzheimer病和Parkinson病的基本病理形态改变
+Basic pathological morphological characteristics of Alzheimer’s disease and Parkinsonism.
+难点内容Difficult points
+化脓性脑膜炎和流行性乙型脑炎的鉴别
+Identification of purulent meningitis and Epidemic encephalitis B;
+胶质瘤的分级和各主要类型的形态学特征及其鉴别
+Grading of Glioma and morphological characteristics and identification of the main types;
+3．Alzheimer病和Parkinson病病因和发病机制。
+Pathogeny and pathogenesis of Alzheimer’s disease and Parkinsonism.
+
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+
+实验课Experiments
+实验课共安排3学时，在教学实验室进行。
+The Experiments are arranged in a total of 3 class hours, in laboratory. 大体标本Gross specimen
+	1. 脑脓肿brain abscess
+   2. 化脓性脑膜炎purulent meningitis
+   3. 脑积水Hydrocephalus
+   4. 大脑恶性胶质瘤Malignant brain glioma
+   5. 大脑胶质瘤病Cerebral glioma
+   6. 脑膜瘤meningioma
+   7. 听神经瘤Acoustic neuroma
+	病理切片Pathological section
+	1. 流行性乙型脑炎Epidemic encephalitis B
+   2. 化脓性脑膜炎Purulent meningitis 
+   3. 星形细胞瘤Ⅱ级Grade II astrocytoma
+   4. 脑膜瘤meningioma
+   5. 雪旺氏细胞瘤（神经鞘瘤）Schwannoma
+   6. 多形性胶质母细胞瘤Glioblastoma cell tumor
+   7. 髓母细胞瘤Myeloid cell tumor
+第十五章  骨关节疾病（2学时）
+Chapter 15  Bone and jointdiseases(2.0 class hours)
+
+教学内容Teaching Contents
+1. 骨肿瘤：骨软骨瘤的病变特点；骨肉瘤的病变特点、组织学类型及临床病理联系；软骨肉瘤的病变特点及临床病理联系；骨巨细胞瘤的病变特点及临床病理联系；
+Bone tumors: pathologic features of osteochondroma; pathologic features of osteosarcoma, histological types and its relation to the clinical pathology; the pathological characteristics and clinical pathological relationship of chondrosarcoma; the pathologic features and clinical pathological relationship of giant cell tumor of bone; 
+2. 骨质疏松症的概念及病理特点；
+Concept and pathological characteristics of osteoporosis
+3．退行性关节炎的概念及病理特点。
+The concept and pathological characteristics of degenerative arthritis
+
+基本要求Basic Requirements
+应掌握内容The following should be mastered：
+常见骨肿瘤（骨软骨瘤、骨肉瘤、软骨肉瘤、骨巨细胞瘤）的病理特点，骨肉瘤的病理类型；四种骨肿瘤的临床病理联系。
+The pathological features of common tumors of bone (bone cartilage tumor, osteosarcoma, chondrosarcoma, giant cell tumor of bone) and pathological types of osteosarcoma; the clinical pathological relationship of these four bone tumors.
+应熟悉内容The following should be familiar with：
+骨质疏松症的概念及其影响因素。
+Concept and influencing factors of osteoporosis
+应了解内容The following only the general understanding：
+退行性关节炎，化脓性骨髓炎，化脓性关节炎的病理特点。
+Degenerative arthritis, osteomyelitis，and the pathological features of pyogenic arthritis.
+重点与难点Key points and Difficult points
+重点内容Key points
+1.常见的骨肿瘤（骨肉瘤、软骨肉瘤、骨巨细胞瘤）的病变特点及临床病理联系；
+The pathological features of common tumors of bone (bone cartilage tumor, osteosarcoma, chondrosarcoma, giant cell tumor of bone) and pathological types of osteosarcoma; the clinical pathological relationship of these four bone tumors.
+2.骨肉瘤、软骨肉瘤、骨巨细胞瘤的鉴别诊断。
+Differential diagnosis of osteosarcoma, chondrosarcoma, giant cell tumor of bone.
+
+难点内容Difficult points
+1．骨巨细胞瘤生物学行为。
+The biological behavior of giant cell tumor of bone.
+2．Codman三角和日放线的形成原因以及在骨肿瘤诊断上的意义。
+The cause of the formation of the Codman triangle and the date line and
+its significance in the diagnosis of bone tumor
+3．骨质疏松症与佝偻病或骨软化症的区别。
+The difference between osteoporosis and rickets or osteomalacia
+
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+
+理论课Lectures
+理论课共安排2学时，在大课室进行。
+The Lectures are arranged in a total of 2 class hours, in classroom.
+实验课Experiments
+实验课共安排3学时，在教学实验室进行。
+The Experiments are arranged in a total of 3 class hours, in laboratory.
+大体标本Gross specimen
+1. 股骨骨肉瘤brain abscess of femur
+2. 股骨骨巨细胞瘤Giant cell tumor of bone of femur
+3. 软骨肉瘤Chondrosarcoma
+病理切片Pathological section
+1. 骨肉瘤  Osteosarcoma
+2. 骨巨细胞瘤Giant cell tumor of bone.
+3. 软骨肉瘤Chondrosarcoma.
+
+第十六章  传染病（12.5学时）
+Chapter 16   Parasitic Diseases（12.5 class hours）
+
+教学内容Teaching Contents
+1．结核病概念，流行病学特征及基本病理学改变；结核病发病机制、疾病进展；结核的基本病变；结核病的转归；原发性肺结核病病因、临床表现、转归；粟粒性肺结核病因、临床表现、转归；继发性肺结核分型、临床及病理表现；肠结核和其他结核病的病理学改变与临床特点；
+ The concept of TB, epidemiological characteristics and basic pathological changes; tuberculosis pathogenesis and progression of diseases; tuberculosis lesions; the outcome of tuberculosis; primary pulmonary TB etiology, clinical manifestation, outcome; miliary pulmonary tuberculosis pathogeny, clinical manifestation, outcome; secondary pulmonary tuberculosis, clinical and pathological features; pathology of intestinal tuberculosis and other TB learn change and clinical characteristics;
+2．伤寒的概念、发病机制、流行病学特征、病理变化以及伤寒的临床分期与病理联系；
+The concept, pathogenesis, epidemiological characteristics, pathological changes and clinical stage of typhoid fever and the clinical stage of typhoid fever;
+3．菌痢的发病机制、病理变化、临床分期与病理联系、肠伤寒、肠结核以及菌痢的溃疡改变和区别；
+The pathogenesis of bacillary dysentery, pathological changes, clinical staging and pathological relationship, typhoid fever, intestinal tuberculosis and dysentery ulcer and difference;
+4．麻风的病因、传染途径和发病机理、分型；
+ The causes, transmission and pathogenesis of leprosy;
+5．梅毒：病因、发病机理，基本病变和临床分期；
+   Syphilis: etiology, pathogenesis, basic pathological changes and clinical stage;
+6．钩端螺旋体病：病因、发病机理和病理改变；
+Leptospirosis: etiology, pathological changes and mechanism; 
+7．深部真菌病：病因、发病机理和病理形态特点。
+Deep fungal disease: etiology, pathogenesis and pathological characteristics.
+
+基本要求Basic Requirements
+应掌握内容The following should be mastered：
+结核病的基本病变和转化规律，原发性和继发性肺结核的病理变化和类型。
+To master the basic pathological changes and types of tuberculosis in primary and secondary pulmonary tuberculosis.
+应熟悉内容The following should be familiar with：
+伤寒：病因、传染途径、发病机理、伤寒肉芽肿、肠伤寒分期及其病理改变、其它脏器的改变、临床病理联系、合并症和结局；细菌性痢疾：病因、传染途径、发病机理、病理改变、临床和病理联系；梅毒：病因、发病机理，基本病变和临床分期。
+Familiar with: typhoid fever, etiology, infection way, pathogenesis, typhoid granuloma, typhoid stage and pathological change, changes in other organs, clinical pathology, complication and outcome; bacillary dysentery: etiology, infectious way, pathogenesis, pathological changes, clinical and pathological relationship; syphilis: etiology, pathogenesis, basic pathological changes and clinical staging.
+应了解内容The following only the general understanding：
+麻风的病因、传染途径和发病机理、分型：结核样型和瘤型麻风病理改变；钩端螺旋体病的病因、发病机理和病理改变；深部真菌病：病因、发病机理和病理形态特点。
+Understanding: leprosy: etiology, transmission and pathogenesis,: tuberculosis type and tumor type leprosy pathological changes; leptospirosis: etiology, pathogenesis and pathological changes; deep fungal disease: etiology, pathogenesis and pathological features.
+
+重点与难点Key points and Difficult points
+重点内容Key points
+结核的基本病变及转归；原发性肺结核的特点；继发性肺结核的6种病理类型；骨结核；肠结核的特点；
+6 the basic pathological changes and prognosis of 1 tuberculosis; the characteristics of primary pulmonary tuberculosis; the pathological types of secondary pulmonary tuberculosis; bone tuberculosis; the characteristics of intestinal tuberculosis;
+2．伤寒的病理形态特点；
+Pathological characteristics of 2 typhoid fever;
+细菌性痢疾的病理学改变
+ pathological changes of bacterial dysentery
+难点内容Difficult point
+溃疡型肠结核与其他溃疡性肠道病变（肠伤寒、菌痢）的鉴别；
+The identification of intestinal tuberculosis ulcer and other ulcerative intestinal diseases (typhoid, dysentery);
+肾结核与慢性肾盂肾炎的区别；
+The difference between the 2 renal tuberculosis and chronic pyelonephritis;
+3．伤寒小结和结核结节的区别。
+   The difference between the nodules of typhoid fever and tuberculosis.
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+
+理论课Lectures
+理论课共安排5学时，在大课室进行。
+The Lectures are arranged in a total of 5 class hours, in classroom. 
+实验课Experiments
+实验课共安排7.5学时，在教学实验室进行。
+The Experiments are arranged in a total of 7.5 class hours, in lab
+第一次课（3.0学时）the first class（3.0class hours）
+大体标本Gross specimen
+1. 原发性肺结核合并淋巴道及血道转移Primarily pulmonary tuberculosis with lymphatic and/or haematogenous spread 
+2. 肺粟粒性结核military tuberculosis of lung
+3. 干酪样肺炎caseous pneumonia
+4. 继发性肺结核早期病变（局灶性肺结核）early lesion of secondary tuberculosis of lung (focal tuberculosis of lung) 
+5. 慢性纤维空洞性肺结核Chronic fibro-cavernous tuberculosis of lung
+6. 肺结核瘤(球) Tuberculoma of lung
+7. 结核性脑膜炎Tuberculosis meningitis
+8. 溃疡性肠结核intestinal tuberculosis ulcerative type
+9. 肾结核tuberculosis of kidney
+10. 椎骨结核tuberculosis of spine
+病理切片Pathological section
+1. 增殖型粟粒性肺结核Proliferative military tuberculosis of lung
+2. 结核性脑膜炎Tuberculosis meningitis
+3. 淋巴结干酪样坏死Caseou necrosis of lymph node
+
+第二次课（3.0学时）the second（3.0class hours）
+大体标本Gross specimen
+1. 肠伤寒（髓样肿胀期）Typhoid fever of ilium (stage of medullary swelling)
+2. 肠伤寒（坏死期）typhoid fever of ilium (stage of necrotic)
+3. 化脓性脑膜炎purulent meningitis
+4. 肺的曲菌病aspergillosis of lung
+5. 假膜性结肠炎Pseudomembranous colitis
+病理切片Pathological section
+1. 肠伤寒（髓样肿胀期）Typhoid fever of ilium (stage of medullary swelling)
+2. 结肠细菌性痢疾bacillary dysentery of colon
+3. 化脓性脑膜炎purulent meningitis
+4. 皮肤结核样型麻风tuberculoid leprosy of skin
+5. 皮肤瘤型麻风lepromatous leprosy of skin
+6. 肺曲菌病aspergillosis of lung
+7. 尖锐湿疣condyloma acuminatum
+
+第十七章  寄生虫病（2.5学时）
+Chapter 17 Parasitosis（2.5Class Hours）
+教学内容Teaching Contents
+寄生虫病的概念、目前的流行病学、预防(控制三个基本环节)以及治疗；对人体致病的共同机制。
+ Definition, epidemiology, prevention(three main methods to control parasitic diseases)  and treatment of parasitic disease.the common mechanism of parasitic infection to host.
+肠阿米巴发病的病因和机制；肠阿米巴病变的常见部位；急性期和慢性期的病理特点，肠外阿米巴尤其是阿米巴肝脓肿的致病机理和病理特点，阿米巴痢疾与细菌性痢疾的鉴别。
+ Causes, mechanisms and the common lesion site of intestinal amoebiasis.Pathological characteristics in acute phase and chronic phase. Pathogenesis and pathological characteristics of extra-intestinal amoebiasis and especially amoebic liver abscess. Differential diagnosis between amebic dysentery and bacillary dysentery.
+血吸虫病的流行病学、感染途径、宿主，血吸虫病的基本病理变化，血吸虫病累及的常见器官的病变特点。
+ Epidemiology,pathogenic pathway and host of schistosomiasis.The basic pathologic changes of schistosomiasis. Pathologic features of the common lesion organs by schistosomiasis
+华支睾吸虫病的病因及引起肝脏的病变特点。
+  Causes of clonorchiasis sinensis and pathologic characteristics of liver clonorchiasis sinensis.    
+常见深部真菌的形态及引起的主要病理变化特征。
+ Morphologic features of the common deep fungi and the pathologic characteristics caused by deep fungi.
+
+基本要求Basic Requirements
+应掌握内容The following should be mastered：
+肠阿米巴病：病因、致病途径、急性期和慢性期肠道病变特点、阿米巴痢疾；肝及其它器官阿米巴脓肿。
+Intestinal amoebiasis:causes,pathogenic pathway,pathologic characteristics in acute phase and chronic phase and amebic dysentery.；pathological characteristics of amoebic liver abscess and extra-intestinal amoebiasis. 
+应熟悉内容The following should be familiar with：
+血吸虫病：尾蚴、成虫及虫卵引起的基本病变；
+Schistosomiasis:  the basic pathologic changes caused by cercaria, imago and spawn. 
+应了解内容The following only the general understanding：
+华支睾吸虫病：肝脏病变。
+Clonorchiasis sinensis:pathologic characteristics of liver.
+
+重点与难点Key points and Difficult points
+重点内容Key points
+1．阿米巴病的病变性质及特点及肠外阿米巴病的形态特征。    
+The pathological characteristics of amoebiasis and the morphologic features of extra-intestinal amoebiasis.
+2．肠阿米巴痢疾与细菌性痢疾的鉴别；阿米巴肝脓肿与细菌性肝脓肿的鉴别。
+Differential diagnosis between amebic dysentery and bacillary dysentery. 
+Differential diagnosis between amoebic liver abscess and bacterial liver abscess.
+3．血吸虫病的基本病理变化及血吸虫急性虫卵结节和慢性虫卵结节的特点；干线型肝硬化的概念。
+The basic pathologic changes of schistosomiasis and characteristics of egg nodules in acute phase and chronic phase. Definition of pipe stem cirrhosis.
+难点内容Difficult points
+阿米巴肝脓肿形成的机制。
+Mechanism for the formation of amoebic liver abscess.
+各种真菌的形态学特点。
+   Morphologic features of various fungi.
+（二）教学环节安排ii. The Organization of the Course
+   （对各种教学环节的安排如：实验、实习、习题课、作业等以及本课程与其他相关课程的联系、分工等作必要说明）
+(Provide necessary information on the organization of the course, including the experiment, field trip, in-class assignment, after-class assignment, and the relationship between this course and other courses; )
+理论课Lectures
+理论课共安排1.0学时，在大课室进行。
+实验课Experiments
+第十七章实验课共安排1.5学时，在教学实验室进行。
+The Experiments of the seventeen chapters are arranged in a total of 1.5 class hours, in laboratory.
+ 大体标本Gross specimen
+1. 血吸虫病性肝硬化cirrhosis of schistosomiasis
+2. 结肠慢性血吸虫病chronic schistosomiasis of colon
+3. 结肠阿米巴痢疾amoebic dysentery of colon
+4. 阿米巴性肝脓肿amoebic abscess of liver
+病理切片Pathological section
+1. 结肠阿米巴痢疾amoebic dysentery of colon
+2. 肝淋巴结急性血吸虫病acute schistosomiasis of liver or lymph node
+
+第十九二十章 临床病理学（2学时）
+Clinical Pathology (2 Class Hours)
+教学内容Teaching Contents
+诊断病理学的重要性和局限性
+The importance and limitation of diagnostic pathology
+常规病理切片HE染色的制作过程
+   Hematoxylin-eosin staining of pathological section
+快速冷冻切片的制作过程与要求
+The making process and requirements of fast frozen section
+送检组织的固定要求
+How to fix tissues
+免疫组织化学的原理和在疾病病理诊断上的应用
+Theory of immunochemistry and how to apply it to diagnose diseases
+
+基本要求Basic Requirements
+应熟悉内容The following should be familiar with：
+病理检查的重要性和局限性
+   The importance and limitation of pathologic examination
+病理标本采集、固定和送检的基本方法
+   The basic approach to collect, fix and deliver pathologic samples
+应了解内容The following only the general understanding：
+诊断病理学的概念
+Definition of diagnostic pathology
+病理标本的处理过程和病理报告的解读方法
+How to dispose pathologic samples and how to read pathological reports
+病理辅助技术的原理及意义
+The principle and significance of pathological assistive techniques 
+
+重点与难点Key points and Difficult points
+重点内容Key points
+(1) 病理检查的重要性和局限性
+   The importance and limitation of pathologic examination
+(2) 病理标本的采集、固定和送检的基本方法；
+   The basic approach to collect, fix and deliver pathologic samples
+(3) 病理标本的处理过程和病理报告的解读方法；
+How to dispose pathologic samples and how to read pathological reports
+难点内容Difficult points
+(1) 免疫组化技术的应用和判读要点
+   Use of immunohistochemical technique and how to judge the results
+(2) 分子生物学技术如荧光原位杂交（FISH）的原理和应用意义
+   The principle and significance of molecular biology techniques, such as FISH
+（三）教学方法iii. Teaching Methodology（包括课堂讲授、提问研讨，课后习题和答疑等情况）(Specify the methods of in-classroom instruction, Q&A session and after-class assignment)
+
+理论课配以教学PPT在教室进行。
+Lecture is done in classroom with teaching PPT.
+实验课在教学实验室进行，首先回顾理论知识，然后观看教学视频，主要观察大体标本和病理切片，辅以教学视频。第7、8、9、11四个章节进行病例讨论，选择合适时间观看尸解录像。
+Experimental class is done in teaching laboratory, lecture concerning the important and difficult points, and present pathogenisi procedure and pathologic development via multi media;
+Teaching Methodology：Lecture concerning the important and difficult points, and present pathogenisi procedure and pathologic development via multi media;
+Lab class  reviews lecture knowledge , and displays the gross and microscopic features of typical lesions.
+There are case discussions in the seventh,eighth, nineth and eleventh chapters, and watching autopsy video in appropriate time.
+
+（四）课程教材 Teaching Materials or Textbooks
+1、主讲教材：The Main Textbook：
+①《病理学》 王连唐主编 高等教育出版社 2012.12年6月 第二版
+《Pahtology》，Main editor：Wang Lian tang, Higher Education Press, 2012.12, second edition
+②病理学实习指导  病理教研室自编教材  2010.01
+Pathology experimental instruction，Department of pathology teaching materials，2010.01
+2、辅助教材Supplementary Materials:
+①《病理学》 李玉林主编，人民卫生出版社，2011年05月，第七版
+The Main Textbook：《Pahtology》，Main editor：Li Yulin, People's Medical Publishing House,2011.05, seventh edition
+②《病理学》，陈杰、李甘地主编，人民卫生出版社，2015年8月，第三版
+《Pahtology》，Main editor：Chen Jie and Li Gan-di, People's Medical Publishing House,2015.08, third edition
+③《病理学教学提纲》，薛玲、李扬主编，科学出版社，2005年2月 
+《Outline of Pathology》，XueLing and Li Yang，Science Press，2005. 2
+（五）主要参考书目 References for Further Reading
+①  基础病理学， HYPERLINK "http://book.jd.com/writer/Vinay%20Kumar_1.html" \t "_blank" Vinay Kumar， HYPERLINK "http://book.jd.com/writer/Abul%20K.%20Abbas_1.html" \t "_blank" Abul K. Abbas， HYPERLINK "http://book.jd.com/writer/Jon%20C.%20Aster_1.html" \t "_blank" Jon C. Aster，第9版，2012
+Basic Pathology， HYPERLINK "http://book.jd.com/writer/Vinay%20Kumar_1.html" \t "_blank" Vinay Kumar， HYPERLINK "http://book.jd.com/writer/Abul%20K.%20Abbas_1.html" \t "_blank" Abul K. Abbas， HYPERLINK "http://book.jd.com/writer/Jon%20C.%20Aster_1.html" \t "_blank" Jon C. Aster   9th  edition，  2012
+②病理学要点，病理教研室，2010.12
+Essential Notes of Pathology, Department of Pathology  2010.12
+（六）成绩评定方式：Evaluation and Grading Policy
+考核方式为闭卷理论考试和标本考试：
+Examination method for closed volume theory examination and specimen examination:
+（1）理论考试全程分两次，一次为病理学总论考试，占总成绩的20%；一次为期末的病理学各论考试，占总成绩的50%；
+General pathology examination, a total score of 20%;the terminal pathological examination, accounting for 50% of the total score;
+（2）标本考试占总成绩的30%。
+Specimen examination accounted for 30% of the total score。
+
+
+
